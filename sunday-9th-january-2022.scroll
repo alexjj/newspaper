@@ -1,0 +1,20 @@
+title Sunday, 9th January, 2022
+date 2022-01-09T00:00:00.000Z
+paragraph
+ <p>Ordered the 2 TB SSD for the mac. I debated not buying it as I might upgrade the mini to a M1 one at some stage but that’s probably a way off, I can just remove the 2TB drive if I want, and 2TB SSD on custom M1 is an extra £600…At which point I’d probably get an external house for the 2 TB SSD.</p>
+ 
+ <p>I’ve replaced hard drives in mac minis in the past and it was okay, lots of bits and connectors to deal with but manageable if done slowly. Annoyingly my current 256GB OS drive SSD is the lower one, i.e. the one that’s most easily accessible. This means if I want to keep the current OS installation I have to remove everything to get to the upper bay to replace the current storage SSD. Wondering if I should just replace the top one and then makes it easier in the future if I want to remove it to sell. Does mean reinstalling macOS…which is easy just takes some time.</p>
+ 
+ <p>Actually, I should just replace the OS drive with the 2 TB, reinstall macOS and then everything is on the big drive and I don’t have to worry about locations or anything. I’ve not installed a great deal on it so far so not much wasted. Just a few config things.</p>
+ 
+ <p>Started tagging posts again. It’s still not ideal. I like tags in tiddlywiki as then even if there ends up being lots, it autocompletes so you can see if you called it <code class="language-plaintext highlighter-rouge">mac</code> or <code class="language-plaintext highlighter-rouge">macOS</code> or whatever.</p>
+ 
+ <p>Started thinking about Tiddlywiki again this morning. I could do what I want with it, having entries tagged or fields for that day, then adding other attributes. I could then use node.js to export it to a JSON file for something (Hugo - think it can read JSON) to build into a website. Just remembered some new feature which will allow builds to be trigger from the TW web app. The only thing is adding new content might be painfully slow, unless I can figure out a nice add new entry which populates everything automatically. I might have a play with it…🤔</p>
+ 
+ <p>I found <a href="https://akhater.github.io/drift/">Drift</a> (again), and it does have a lot of nice features. The interstitial journaling isn’t quite what I want, although the page does have a lot of nice features and plugins that I might borrow.</p>
+ 
+ <p>This blogging malarkey sure is eating up a lot of time. 6 months ago I barely wrote anything for months, now I have 300-1000 word posts A DAY! I should be happy with that for myself. But now my nature kicks in and I want to optimise it…often for scenarios that don’t happen or will never exist.</p>
+ 
+ <p>To remind myself about Tinderbox vs. the rest I wrote nearly all of this post on my iPad in the kitchen whilst the little one did stickers.</p>
+ 
+ <p>Skipped all this nonsense, and started watching Season 3 of Lost in Space.</p>

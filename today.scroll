@@ -1,0 +1,13 @@
+title January 2022
+date 01-16-2022
+maxColumns 1
+header custom header...?
+columnWidth 80
+
+aftertext
+ I quite like this and think it may be a good setup for my daily notes blog. I could keep monthly pages perhaps? Then just add sections per day. Not quite sure how I'd structure things and where to put dates etc. A title with the day and then entries? I quite like the dateline format. Also interesting in using textile instead of scroll or markdown. But perhaps I can just make grammar for the scoll stuff I want and then it's minimal effort.
+ dateline 2022-01-16
+
+aftertext
+ Then just keep typing and talk about other stuff for this day. Scroll's documentation leaves a lot to be desired. The aftertext stuff is a bit strange. Need to read through all the grammar on github. 
+ link https://github.com/publicdomaincompany/scroll/tree/main/grammar github.

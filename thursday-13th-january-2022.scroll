@@ -1,0 +1,22 @@
+title Thursday, 13th January, 2022
+date 2022-01-13T00:00:00.000Z
+paragraph
+ <p>My Spearman SP-445 arrived today. So hopefully that’ll make 4x5 development easier, improve the results and be more consistent. I’ll need to practice using it in the dark bag. Along with practicing loading the film holders too. Not entirely convinced I managed that correctly the first time.</p>
+ 
+ <figure><img src="/assets/img/filmscanning.jpeg" alt="Mirrorless camera film scanning setup" data-action="zoom" /></figure>
+ 
+ <p>Sent the angle-poise arm for film scanning back. It wobbled and was annoying to position. I should probably just get a tripod as that’ll be useful for several things.</p>
+ 
+ <p><a href="https://discussions.apple.com/docs/DOC-250002326">This is a nice overview</a> of using Apple Photos app, including ideas for smart albums. I’d say mostly obvious but a few good ideas you might not have thought of. I should use the keywords for tagging pictures to upload to my website….if only I could decide what to use for it. I guess a static gallery should be easy now:</p>
+ 
+ <ol>
+   <li>Import photos to NAS</li>
+   <li>If film - use <code class="language-plaintext highlighter-rouge">exiftool</code> to set EXIF data</li>
+   <li>Import into Photos app</li>
+   <li>Pick/edit photos</li>
+   <li>Filter to those and export</li>
+ </ol>
+ 
+ <p>Can even export large or custom resolution so it’s all ready for the website. Or use <a href="https://imageoptim.com/mac">ImageOptim</a> to resize in place. Then run the generator and upload!</p>
+ 
+ <p>Still not made my new blog. Of course I actually already have <a href="https://blog.alexjj.com">one</a>…but think I’d rather have a static gen one. I have written down a few ideas for potential posts. I’m too busy watching Lost in Space in the evenings to do it. Perhaps once I finish that I might get round to it.</p>
