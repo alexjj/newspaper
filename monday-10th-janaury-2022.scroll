@@ -1,14 +1,14 @@
 title Monday, 10th Janaury, 2022
 date 2022-01-10T00:00:00.000Z
 paragraph
- <p><a href="https://codepen.io/davidkpiano/pens/public">Amazing animations</a> only made with CSS and HTML!</p>
- 
- <p>First day of work of 2022, and a brand new Leuchtturm notebook.</p>
- 
- <p>Someone at work said we’d talk about the topic next week. I looked at the calendar and thought “that’ll be more than half way through January!”.</p>
- 
- <p>As I’m back at work I started using my work tiddlywiki. It reminded me of how nice Tiddlywiki is. I’d forgotten I’d made a button to add a work journal entry which is slightly different from the normal journal entry as it has other tags and fields. Just a shame that making new themes and layouts isn’t as easy as just configuring a few html and CSS files like static site generators. Admittedly, I’ve not put in a lot of effort to try and do it. It’s some of that but there’s a lot of parts/divs to figure out. I did read an <a href="https://mydigitalmark.com/easily-build-static-html-sites-from-json-with-aws-lambda-and-tiddlywiki/">article</a> of someone using Tiddlywiki to render static sites. It’s an interesting use of it, and allows easy implmentation of a custom design. It’s another thing I’ll add to my “maybe I’ll play with it pile” (and then do nothing). But thinking it through a little:</p>
- 
+ <a href="https://codepen.io/davidkpiano/pens/public">Amazing animations</a> only made with CSS and HTML!
+
+ First day of work of 2022, and a brand new Leuchtturm notebook.
+
+ Someone at work said we’d talk about the topic next week. I looked at the calendar and thought “that’ll be more than half way through January!”.
+
+ As I’m back at work I started using my work tiddlywiki. It reminded me of how nice Tiddlywiki is. I’d forgotten I’d made a button to add a work journal entry which is slightly different from the normal journal entry as it has other tags and fields. Just a shame that making new themes and layouts isn’t as easy as just configuring a few html and CSS files like static site generators. Admittedly, I’ve not put in a lot of effort to try and do it. It’s some of that but there’s a lot of parts/divs to figure out. I did read an <a href="https://mydigitalmark.com/easily-build-static-html-sites-from-json-with-aws-lambda-and-tiddlywiki/">article</a> of someone using Tiddlywiki to render static sites. It’s an interesting use of it, and allows easy implmentation of a custom design. It’s another thing I’ll add to my “maybe I’ll play with it pile” (and then do nothing). But thinking it through a little:
+
  <ul>
    <li>Can host node.js version of TW with password protection at some random place to add content</li>
    <li>Construct the static config like the doc explains. I wonder how much TW logic can be used to construct things.</li>
@@ -18,13 +18,13 @@ paragraph
      </ul>
    </li>
  </ul>
- 
- <p>Why I can’t just be content with this site as is I’m not sure. I keep thinking of ever increasingly minute and slightly complex arrangements I’d like to do which just can’t be done (or I don’t think it can be) in Jekyll. Solving for non-existant problems may be a problem.</p>
- 
- <p>I may be done with Tinderbox before even starting with it. However, there’s no rush and I can always return to it. I might try another project that doesn’t involve exporting and is all contained within it.</p>
- 
- <p>My 2 TB SSD arrived for the Mac. Probably leave fitting that until the weekend. The 2012 model is user serviceable, which is nice, but it’s not quite as easy as a regular desktop tower. There’s still a variety of tiny, mishaped screws and the application of spudgers to separate stuff. I’m tired from my shift in schedule going to work so maybe not sensible. Plus watching the OS reinstall isn’t how I want to spend the evening. I’ll double check there’s nothing I need to save tonight so that it’s all ready.</p>
- 
- <p>10 years and two months ago, I bought my first SSD. It was a Crucial M4 128GB, and it cost £150. Yesterday I bought a 2000GB Crucial MX500 and it cost £150. 😅</p>
- 
- <p>Made a new DayOne journal to use for archiving entries that I’ve printed so I can more easily see how many new ones I have. The question is at what point to get a new book printed. Lots of little ones or one big one again? Probably I should do annual ones 1st Jan-31st Dec but my entries were quite sporadic between 2020 and the latter part of 2021 so I’d have to start from this year. Well it’s not a decision that needs to be decided now, and easy to check how big/expensive a book can be uding the app.</p>
+
+ Why I can’t just be content with this site as is I’m not sure. I keep thinking of ever increasingly minute and slightly complex arrangements I’d like to do which just can’t be done (or I don’t think it can be) in Jekyll. Solving for non-existant problems may be a problem.
+
+ I may be done with Tinderbox before even starting with it. However, there’s no rush and I can always return to it. I might try another project that doesn’t involve exporting and is all contained within it.
+
+ My 2 TB SSD arrived for the Mac. Probably leave fitting that until the weekend. The 2012 model is user serviceable, which is nice, but it’s not quite as easy as a regular desktop tower. There’s still a variety of tiny, mishaped screws and the application of spudgers to separate stuff. I’m tired from my shift in schedule going to work so maybe not sensible. Plus watching the OS reinstall isn’t how I want to spend the evening. I’ll double check there’s nothing I need to save tonight so that it’s all ready.
+
+ 10 years and two months ago, I bought my first SSD. It was a Crucial M4 128GB, and it cost £150. Yesterday I bought a 2000GB Crucial MX500 and it cost £150. 😅
+
+ Made a new DayOne journal to use for archiving entries that I’ve printed so I can more easily see how many new ones I have. The question is at what point to get a new book printed. Lots of little ones or one big one again? Probably I should do annual ones 1st Jan-31st Dec but my entries were quite sporadic between 2020 and the latter part of 2021 so I’d have to start from this year. Well it’s not a decision that needs to be decided now, and easy to check how big/expensive a book can be uding the app.
