@@ -5,10 +5,6 @@ paragraph
 
  Been trying out some free negative convertors. One of which is built into <a href="http://rawpedia.rawtherapee.com/Film_Negative">RawTherapee</a>. Now it doesn’t help I’ve never used RT but the one tick negative convertor seemed decent enough. Auto levels makes the film too constrasty, so I need to play with things to figure what’s best.
 
- Here’s my best result so far:
-image /img/first-4x5.jpeg
- caption My first development of 4x5 sheet film, in fact of any film
-
  DarkTable has the <a href="https://docs.darktable.org/usermanual/3.8/en/module-reference/processing-modules/negadoctor/">negadoctor</a> module. The manual makes it sound very complicated but perhaps just good advice to get the best image. I might install it and give it a go.
 
  After quite a slow but productive effort with Tinderbox yesterday, I’m not feeling it any more. I’m still yet to tackle the export configuration and maybe I’m procrastinating on that. I found myself reading Hugo docs and looking at Hugo themes.
